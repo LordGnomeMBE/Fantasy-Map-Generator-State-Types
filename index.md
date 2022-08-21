@@ -1,37 +1,42 @@
-## State Types in [Azgaar's Fantasy Map Generator](azgaar.github.io/fantasy-Map-Generator/)
+# State Types in [Azgaar's Fantasy Map Generator](azgaar.github.io/fantasy-Map-Generator/)
 
 Confused about what a particular State Type in FMG means? I've compiled a list of every single one, with explanations!
 
-I've also included a link to the relevent Wikipedia article for further reading.
+I've also included links to the relevent Wikipedia articles for further reading.
 
-### Markdown
+### Monarchy
+----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Beylik
 
-```markdown
-Syntax highlighted code block
+A _Beylik_ was a region (similar to a Principality or Duchy) ruled by a Bey in the Ottoman Empire.
 
-# Header 1
-## Header 2
-### Header 3
+> **Further Reading:** [Beylik](https://en.wikipedia.org/wiki/Beylik) [NOTE: limited article] and [Bey](https://en.wikipedia.org/wiki/Bey) on Wikipedia.
 
-- Bulleted
-- List
+### Despotate
 
-1. Numbered
-2. List
+`Section Under Construction`
 
-**Bold** and _Italic_ and `Code` text
+> **Further Reading:**
 
-[Link](url) and ![Image](src)
-```
+### Dominion
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+A _Dominion_ was a self-governing area in the British Empire. They were fully autonomous, and equal in status, united by a common allegiance.
 
-### Jekyll Themes
+- Examples: (under the British Empire) Canada, Australia, and New Zealand.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LordGnomeMBE/fmg-statetypes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+> **Further Reading:** [Dominion](https://en.wikipedia.org/wiki/Dominion) on Wikipedia.
 
-### Support or Contact
+### Duchy
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+A _Duchy_ is (in Europe) a country or territory ruled by a Duke or Duchess, and under allegiance to a King or Queen. Countries may have the title of Duchy, but if they do they will usually have once been a part of a larger country. 
+
+- Examples: (in the Medieval period) Normany, Burgundy, and Brittany.
+
+> **Further Reading:** [Duchy](https://en.wikipedia.org/wiki/Duchy) on Wikipedia.
+
+### Emirate
+
+An _Emirate_ is an area ruled by an Emir (a title used by Muslim leaders and that is similar to a King or Prince).
+
+> **Further Reading:** [Emirate](https://en.wikipedia.org/wiki/Emirate) on Wikipedia.
