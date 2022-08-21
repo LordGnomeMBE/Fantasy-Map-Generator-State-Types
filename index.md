@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## State Types in [Azgaar's Fantasy Map Generator](azgaar.github.io/fantasy-Map-Generator/)
 
 You can use the [editor on GitHub](https://github.com/LordGnomeMBE/fmg-statetypes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
