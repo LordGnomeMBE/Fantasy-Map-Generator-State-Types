@@ -17,8 +17,6 @@ A _Beylik_ was a region (similar to a Principality or Duchy) ruled by a Bey in t
 
 `Section Under Construction`
 
-> **Further Reading:**
-
 ### Dominion
 
 A _Dominion_ was a self-governing area in the British Empire. They were fully autonomous, and equal in status, united by a common allegiance.
@@ -39,4 +37,26 @@ A _Duchy_ is (in Europe) a country or territory ruled by a Duke or Duchess, and 
 
 An _Emirate_ is an area ruled by an Emir (a title used by Muslim leaders and that is similar to a King or Prince).
 
+- Examples: United Arab Emirates (see constituent Emirates).
+
 > **Further Reading:** [Emirate](https://en.wikipedia.org/wiki/Emirate) on Wikipedia.
+
+### Empire
+
+An _Empire_ is an area that is comprised of multiple territories or groups, and ruled by am Emporer or Empress. Areas of an Empire are usually semi-autonomous under a Imperial representative such as a Govenor. Empires are usually formed by conquest but can be formed by other things, like political unions or marriages.
+
+- Examples: The British Empire, The French Empire, and The Central African Empire.
+
+> **Further Reading:** [Empire](https://en.wikipedia.org/wiki/Empire) on Wikipedia.
+
+### Horde
+
+`Section Under Construction`
+
+### Grand Duchy
+
+A _Grand Duchy_ is a State whose ruler has the title of Grand Duke or Grand Duchess. This is often due to a union of Duchies. It usually refers to a country smaller than most countries, but larger than an individual Duchy.
+
+- Examples: (under Holy Roman Empire) Tuscany and Savoy.
+
+**Further Reading:** [Grand Duchy](https://en.wikipedia.org/wiki/Grand_duchy) on Wikipedia.
