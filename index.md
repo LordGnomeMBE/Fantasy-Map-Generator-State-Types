@@ -59,4 +59,4 @@ A _Grand Duchy_ is a State whose ruler has the title of Grand Duke or Grand Duch
 
 - Examples: (under Holy Roman Empire) Tuscany and Savoy.
 
-**Further Reading:** [Grand Duchy](https://en.wikipedia.org/wiki/Grand_duchy) on Wikipedia.
+> **Further Reading:** [Grand Duchy](https://en.wikipedia.org/wiki/Grand_duchy) on Wikipedia.
