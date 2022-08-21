@@ -1,8 +1,8 @@
 ## State Types in [Azgaar's Fantasy Map Generator](azgaar.github.io/fantasy-Map-Generator/)
 
-You can use the [editor on GitHub](https://github.com/LordGnomeMBE/fmg-statetypes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Confused about what a particular State Type in FMG means? I've compiled a list of every single one, with explanations!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've also included a link to the relevent Wikipedia article for further reading.
 
 ### Markdown
 
