@@ -63,24 +63,48 @@ A _Grand Duchy_ is a State whose ruler has the title of Grand Duke or Grand Duch
 
 ### Heptarchy
 
+`Section Under Construction`
+
 ### Khaganate
+
+`Section Under Construction`
 
 ### Khanate
 
+`Section Under Construction`
+
 ### Kingdom
+
+`Section Under Construction`
 
 ### Marches
 
+`Section Under Construction`
+
 ### Principality
+
+`Section Under Construction`
 
 ### Satrapy
 
+`Section Under Construction`
+
 ### Shogunate
+
+`Section Under Construction`
 
 ### Sultanate
 
+`Section Under Construction`
+
 ### Tsardom
+
+`Section Under Construction`
 
 ### Ulus
 
+`Section Under Construction`
+
 ### Viceroyalty
+
+`Section Under Construction`
